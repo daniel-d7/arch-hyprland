@@ -28,7 +28,7 @@ needed_aur_packages=(
   "aylurs-gtk-shell-git" "grimblast-git" "gtklock" "gtklock-userinfo-module" 
   "hyprpicker" "ttf-ubuntu-nerd" "ttf-ubuntu-mono-nerd"
   "sway-audio-idle-inhibit-git" "swww-git" "pywal-16-colors" "xdg-desktop-portal-hyprland"
-  "wf-recorder" "wl-clip-persist-git" "wayshot-bin"
+  "wf-recorder" "wl-clip-persist-git" "wayshot-bin" "spotify"
 )
 
 # optional packages
@@ -37,7 +37,7 @@ optional_pacman_packages=(
   "gnome-disk-utility" "gnome-software" "gnome-sound-recorder" "gnome-tweaks"
   "intel-gpu-tools" "gvfs-smb" "libgnome-keyring" "mpv" "neofetch" "network-manager-applet"
   "nextcloud-client" "obs-studio" "smbclient" "seahorse" "polkit-gnome" "nautilus" "thunar" 
-  "obsidian" "neovim" "neovide" "fzf" "wireguard-tools"
+  "obsidian" "neovim" "neovide" "fzf" "wireguard-tools" 
 )
 
 optional_aur_packages=(
