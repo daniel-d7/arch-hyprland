@@ -59,7 +59,7 @@ imagebox {
     spacing:                     0px;
     padding:                     100px;
     background-color:            transparent;
-    background-image:            url("~/.wallpapers/forest.png", height);
+    background-image:            url("~/.wallpapers/forest_stairs.jpg", height);
     children:                    [ "inputbar", "dummy", "message" ];
 }
 
